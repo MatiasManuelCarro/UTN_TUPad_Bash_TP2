@@ -1,5 +1,5 @@
 #!/bin/bash
-clear -x
+clear 
 
 echo "Ingrese dos numeros para mostrar el resultado de las operaciones entre ellos"
 read -p "Ingrese el primer numero: " num_1

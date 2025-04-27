@@ -1,5 +1,5 @@
 #!/bin/bash
-clear -x
+clear 
 
 echo "Ingrese base y altura de un triangulo para clacular su area"
 read -p "Ingrese la base: " base

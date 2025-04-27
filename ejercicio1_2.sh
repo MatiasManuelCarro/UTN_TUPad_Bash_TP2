@@ -1,3 +1,3 @@
 #!/bin/bash
-clear -x
+clear
 ls -l

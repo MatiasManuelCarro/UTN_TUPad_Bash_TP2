@@ -1,5 +1,5 @@
 #!/bin/bash
-clear -x
+clear 
 read -p "Ingrese su nombre: " nombre
 read -p "Ingrese su edad: " edad
 read -p "Ingrese ciudad: " ciudad

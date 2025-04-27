@@ -1,5 +1,5 @@
 #!/bin/bash
-clear -x
+clear 
 read -p "Ingrese el archivo que desea verificar: " archivo
 
 #$PWD es una variable que contiene la direccion actual

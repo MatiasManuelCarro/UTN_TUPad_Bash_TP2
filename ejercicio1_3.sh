@@ -1,3 +1,4 @@
 #!/bin/bash
-clear -x
-ls -l
+clear 
+mkdir Backup
+cp *.txt /Backup

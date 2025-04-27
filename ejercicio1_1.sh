@@ -1,3 +1,3 @@
 #!/bin/bash
-clear -x
+clear
 echo "Y si, es nuestro primer programa"

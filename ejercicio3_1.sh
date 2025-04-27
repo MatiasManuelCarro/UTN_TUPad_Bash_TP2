@@ -1,5 +1,5 @@
 #!/bin/bash
-clear -x
+clear 
 read -p "Ingrese su edad: " edad
 
 if [[ $edad -ge 18 ]]; then
