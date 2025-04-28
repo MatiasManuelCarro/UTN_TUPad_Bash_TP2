@@ -1,9 +1,7 @@
 #!/bin/bash
 clear
-password=""
+read -p "Ingrese su nombre: " nombre
+read -p "Ingrese su apellido: " apellido
+nombre_mayusculas="${nombre^^} ${apellido^^}"
+echo "$nombre_mayusculas"
 
-until [[ $password == "secreto" ]]; do
-	read -p "Ingrese su contraseña: " password
-done
-
-echo "Contraseña correcta"
