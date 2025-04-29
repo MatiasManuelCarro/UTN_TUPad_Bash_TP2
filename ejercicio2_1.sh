@@ -1,6 +1,8 @@
 #!/bin/bash
+#Ejercicio 2.1
 clear 
 
+#Se solicita ingreso al usuario
 echo "Ingrese dos numeros para mostrar el resultado de las operaciones entre ellos"
 read -p "Ingrese el primer numero: " num_1
 read -p "Ingrese el segundo numero: " num_2

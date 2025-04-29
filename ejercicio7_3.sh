@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ejercicio 7.3
 clear
 echo "Ingrese las 5 notas para sacar su promedio: "
 

@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ejercicio 7.1
 clear
 read -p "Ingrese su edad para comprobar si puede votar : " edad
 
